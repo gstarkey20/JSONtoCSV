@@ -1,4 +1,7 @@
-# This program is intended to convert from JSON format to CSV format.
+# This program is intended to look into a specific directory and locate 
+# files with an .json extension. The file names will then be printed to 
+# the console
+
 
 import sys
 import os
