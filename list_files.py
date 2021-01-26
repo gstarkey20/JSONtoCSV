@@ -7,7 +7,7 @@ import os
 
 # locate directory, print the name of all files within
 def list_files():
-	entries = os.listdir('/Users/garrettstarkey/Desktop/PersonalProjects/JSONtoCSV')
+	entries = os.listdir('/Users/garrettstarkey/Desktop/PersonalProjects/ListFiles')
 	for entry in entries:  # loop through entire directrory
 		print(entry)	
 
